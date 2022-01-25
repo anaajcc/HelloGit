@@ -2,7 +2,7 @@
 public class MiPrimeraClase {
 
 	public static void main(String[] args) {
-		System.out.println("Kaixo");
+		System.out.println("Beste mezu bat");
 
 	}
 
